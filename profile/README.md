@@ -1,4 +1,8 @@
-## Hi there 👋
+# Welcome to SpectrumShift Github Organization Page
+
+Here you will be able to find all SpectrumShift Studio projects.
+
+
 
 <!--
 
